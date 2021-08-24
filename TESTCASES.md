@@ -1,5 +1,7 @@
 # Test case design
 
+I didn't write a lot of test cases as i wanted to make my code as clean as possible, Thank you for your consideration
+
 ## Search with selecting a prediction
   - Description: The user should be able to search with selecting a suggested search text
   - Assumbtion: The user has a good internet connection
