@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27917" started-at="2021-08-24T18:44:34Z" finished-at="2021-08-24T18:45:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27917" started-at="2021-08-24T18:44:34Z" finished-at="2021-08-24T18:45:02Z">
+      <class name="Google.InstabugChallenge.SearchTests">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:Google.InstabugChallenge.SearchTests@4501b7af]" name="initialization" is-config="true" duration-ms="4216" started-at="2021-08-24T18:44:34Z" finished-at="2021-08-24T18:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="submitSearchWithPrediction()[pri:0, instance:Google.InstabugChallenge.SearchTests@4501b7af]" name="submitSearchWithPrediction" duration-ms="2589" started-at="2021-08-24T18:44:38Z" finished-at="2021-08-24T18:44:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitSearchWithPrediction -->
+        <test-method status="PASS" signature="afterTests()[pri:0, instance:Google.InstabugChallenge.SearchTests@4501b7af]" name="afterTests" is-config="true" duration-ms="3381" started-at="2021-08-24T18:44:41Z" finished-at="2021-08-24T18:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTests -->
+        <test-method status="PASS" signature="submitSearchWithEnter()[pri:1, instance:Google.InstabugChallenge.SearchTests@4501b7af]" name="submitSearchWithEnter" duration-ms="2395" started-at="2021-08-24T18:44:44Z" finished-at="2021-08-24T18:44:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitSearchWithEnter -->
+        <test-method status="PASS" signature="afterTests()[pri:0, instance:Google.InstabugChallenge.SearchTests@4501b7af]" name="afterTests" is-config="true" duration-ms="3343" started-at="2021-08-24T18:44:46Z" finished-at="2021-08-24T18:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTests -->
+        <test-method status="PASS" signature="submitSearchWithButton()[pri:2, instance:Google.InstabugChallenge.SearchTests@4501b7af]" name="submitSearchWithButton" duration-ms="2451" started-at="2021-08-24T18:44:50Z" finished-at="2021-08-24T18:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitSearchWithButton -->
+        <test-method status="PASS" signature="afterTests()[pri:0, instance:Google.InstabugChallenge.SearchTests@4501b7af]" name="afterTests" is-config="true" duration-ms="3338" started-at="2021-08-24T18:44:52Z" finished-at="2021-08-24T18:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTests -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Google.InstabugChallenge.SearchTests@4501b7af]" name="closeBrowser" is-config="true" duration-ms="6189" started-at="2021-08-24T18:44:55Z" finished-at="2021-08-24T18:45:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Google.InstabugChallenge.SearchTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
